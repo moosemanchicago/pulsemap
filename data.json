@@ -1,0 +1,10 @@
+{
+	"locations":	[
+		{"type":"center", "firstName":"Chicago", "lat":41.9369, "lng":-87.6847},
+            {"type":"apartment", "firstName":"Moose", "lat":42.02497, "lng":-88.046458},
+		{"type":"apartment", "firstName":"Mikey", "lat":41.9247022, "lng":-87.7038637},
+		{"type":"apartment", "firstName":"Tom", "lat":41.911713, "lng":-87.6814776},
+            {"type":"venue", "firstName":"SpyBar", "lat":41.8938066, "lng":-87.635869},
+            {"type":"venue", "firstName":"SmartBar", "lat":41.9498406, "lng":-87.6588136}
+	]
+}

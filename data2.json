@@ -1,0 +1,11 @@
+{
+	"items":	[
+		{"type":"breakfast", "name":"Continental", "price":17, "description":"Freshly baked assorted pastries, fresh cut fruit salad, assorted yogurt & homemade preserves"},
+		{"type":"breakfast", "name":"The Local Stuff", "price":20, "description":"Fresh Bekings Farm egg omelet with Le Coprin mushrooms, fresh goat cheese, Upper Canada Heritage Meat’s braised pork belly, baked beans, potatoes, creton & toast"},
+		{"type":"breakfast", "name":"The Usual", "price":18, "description":"Fresh Bekings Farm scrambled eggs, bacon & sausage, potatoes & toast"},
+		{"type":"breakfast", "name":"Smokey Lox", "price":14, "description":"Fresh Bekings Farm egg frittata, season inspired vegetables, potatoes & toast"},
+		{"type":"breakfast", "name":"Trio Sante", "price":16, "description":"House made granola, fresh cut fruit salad and your choice of plain, strawberry or raspberry yogurt"},
+		{"type":"breakfast", "name":"Sweet & Salty", "price":19, "description":"Arc famous French toast (oat & cinnamon crusted cranberry foccacia, spiced orange butter & maple syrup), home fries & “Seed to Sausage” bacon"},
+		{"type":"breakfast", "name":"Bened'Arc", "price":12, "description":"Bekings Farm poached egg(1) on toasted English muffin, smoked salmon or “Seed to Sausage” bacon, grapefruit Hollandaise, fresh chive & caramelized onion home fries"}
+	]
+}

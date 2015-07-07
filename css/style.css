@@ -1,0 +1,63 @@
+/*
+    Mustafa Raza Ishaq 2015
+*/
+
+
+*{
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+}
+html, body{height: 100%; background: black; color: white;}
+#map-canvas {
+  height: 90%;
+  margin: 0px;
+  padding: 0px
+}
+
+
+/* HTML5 Shiv */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+
+h1,h2,h3,h4,h5{
+	display: inline-block;
+}
+
+/*
+    nice little shadow on the top of the body
+    look near the bottom of the address bar to see it!
+*/
+/*body:before {
+  content: "";
+  height: 10px;
+  left: 0;
+  position: fixed;
+  top: -10px;
+  width: 100%;
+  z-index: 100;
+  -moz-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+  -ms-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+  -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+  box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+
+
+}*/
+
+body{
+
+}
+

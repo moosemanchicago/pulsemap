@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html data-ng-app="PulseMap">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <title>pulsemap</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyAxXtCLbPJroqexcuVP_DaPJkB8hiQGus4"></script>
+    <script type="text/javascript" src="js/angular/angular.js"></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
+
+</head>
+
+<body data-ng-controller="MainController">
+
+	<div id="map-canvas"></div>
+
+	<header>center</header>
+
+	<div class="main">{{retrievedData[0].lat}}	</div>
+
+	<footer>{{retrievedData[0].lng}}</footer>
+
+</body>
+
+</html>
